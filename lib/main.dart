@@ -173,7 +173,7 @@ class ObsidianHomePage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            "if it helped you, please consider to    ",
+            "if scrollr was of some help to you, please consider to    ",
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 14,
@@ -189,7 +189,7 @@ class ObsidianHomePage extends StatelessWidget {
             ),
           ),
           const Text(
-            "  cheers.",
+            "  happy reading.",
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 14,
